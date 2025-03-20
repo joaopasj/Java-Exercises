@@ -32,7 +32,7 @@ class Student {
     }
 }
 
-public class SGA {
+public class SchoolHistory {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         Student[] students = new Student[3]; 

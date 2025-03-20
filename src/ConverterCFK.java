@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CFK {
+public class ConverterCFK {
     public static void main(String[] args) {
         
         char temperature1;
